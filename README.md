@@ -38,9 +38,6 @@ When I'm not coding, I'm either charting celestial bodies with my telescope, per
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/live/7E4KGJ6J4r4?si=c-e0YPS70JtSiTW8&t=809" style="text-decoration:none;">50m butterfly</a></li>
 </ul>
 
-### 🧠 My philosophy
-I craft software that's not just functional, but elegant – turning complex challenges into intuitive, performant applications. I love blending technical precision with creative problem-solving, driven by an insatiable curiosity for continuous growth.
-
 ### 🌐 Socials
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/devarno.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandro-arnò-630584117) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Dev4rno) 
 
