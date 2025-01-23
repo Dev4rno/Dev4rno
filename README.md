@@ -1,6 +1,8 @@
-Hi there! I'm Alex 👋
+# Hi there! I'm Alex 👋
 
 ### 🚀 Full Stack Developer • Automation Architect • Lifelong Learner
+
+I'm a Spacecraft engineering graduate thrusting into new technical frontiers, and I love solving complex challenges by crafting elegant software with technical precision and creative problem-solving. 
 
 ### 🔭 Currently working on 
 Building products that push the boundaries of performance and user experience with Python, TypeScript, and Golang ecosystems.
