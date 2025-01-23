@@ -1,17 +1,18 @@
 ## 💫 Hi there! I'm Alex 👋
 
-### 🚀 Tech Alchemist | Full-Stack Developer | Lifelong Learner
+### 🚀 Full Stack Developer | Automation Architect | Lifelong Learner
 
-#### 🔭 Currently working on 
-Cutting-edge applications that push the boundaries of performance and user experience, specializing in Python, TypeScript, and Golang ecosystems.
+### 🔭 Currently working on 
+Building products that push the boundaries of performance and user experience with Python, TypeScript, and Golang ecosystems.
 
-#### 👯 Looking to collaborate on 
+### 👯 Looking to collaborate on 
 Innovative digital products, open-source projects, and anything that blends creativity with impactful technology and sustainability.
 
-#### 🤝 Looking for help with 
+### 🤝 Looking for help with 
 Advanced distributed system design, and exploring the bleeding edge of backend optimisation.
 
-#### 🌱 Currently learning advanced system design patterns, diving deeper into machine learning integrations, and exploring the nuances of high-performance computing.
+### 🌱 Currently learning 
+Advanced system design patterns, diving deeper into machine learning integrations, and exploring the nuances of high-performance computing.
 
 #### 💬 Ask me about
 - Python, TypeScript, and Golang ecosystems
