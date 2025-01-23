@@ -1,5 +1,5 @@
 # Hi there! I'm Alessandro 👋
-<pre>all the cool kids call me Alex</pre>
+<code>all the cool kids call me Alex</code>
 
 ### 🚀 Full Stack Developer • Automation Architect • Lifelong Learner
 
