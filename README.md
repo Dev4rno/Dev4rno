@@ -1,4 +1,5 @@
-# Hi there! I'm Alex 👋
+# Hi there! I'm Alessandro 👋
+<pre>all the cool kids call me Alex</pre>
 
 ### 🚀 Full Stack Developer • Automation Architect • Lifelong Learner
 
@@ -48,7 +49,6 @@ When I'm not coding, I'm either charting celestial bodies with my telescope, per
 ![](https://github-readme-stats.vercel.app/api?username=Dev4rno&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev4rno&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev4rno&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 
 
