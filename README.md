@@ -28,7 +28,13 @@ Advanced system design patterns, diving deeper into machine learning integration
 - AGILE methodologies
 
 ### ⚡ Fun fact
-When I'm not coding, I'm either charting celestial bodies with my telescope, perfecting my tennis serve, logging hours as a student pilot, or creating culinary masterpieces in the kitchen. I'm also a competitive swimmer (here's me racing [50m backstroke](https://www.youtube.com/live/F75R6tRO6s8?si=GBXeTdc_1tl270lr&t=8789), [50m freestyle](https://www.youtube.com/live/44X1fdHfzkU?si=fGss-a8yQO20UsRU&t=7452), [50m breastroke](https://www.youtube.com/live/9P7MUqhDmr4?si=v-0sQN4bhZAwpzh1&t=9960) and [50m butterfly](https://www.youtube.com/live/7E4KGJ6J4r4?si=c-e0YPS70JtSiTW8&t=809)).
+When I'm not coding, I'm either charting celestial bodies with my telescope, perfecting my tennis serve, logging hours as a student pilot, or creating culinary masterpieces in the kitchen. I'm also a competitive swimmer for at a Masters club in London, here's a few of my recent races:
+<ul style="list-style-type:disc;">
+  <li><a href="https://www.youtube.com/live/F75R6tRO6s8?si=GBXeTdc_1tl270lr&t=8789" style="text-decoration:none;">50m backstroke</a></li>
+  <li><a href="https://www.youtube.com/live/9P7MUqhDmr4?si=v-0sQN4bhZAwpzh1&t=9960" style="text-decoration:none;">50m breaststroke</a></li>
+  <li><a href="https://www.youtube.com/live/44X1fdHfzkU?si=fGss-a8yQO20UsRU&t=7452" style="text-decoration:none;">50m freestyle</a></li>
+  <li><a href="https://www.youtube.com/live/7E4KGJ6J4r4?si=c-e0YPS70JtSiTW8&t=809" style="text-decoration:none;">50m butterfly</a></li>
+</ul>
 
 ### 🧠 My philosophy
 I craft software that's not just functional, but elegant – turning complex challenges into intuitive, performant applications. I love blending technical precision with creative problem-solving, driven by an insatiable curiosity for continuous growth.
