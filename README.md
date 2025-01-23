@@ -28,7 +28,7 @@ Advanced system design patterns, diving deeper into machine learning integration
 - AGILE methodologies
 
 ### ⚡ Fun fact
-When I'm not coding, charting celestial bodies with my telescope, perfecting my tennis serve, logging hours as a student pilot, or creating culinary masterpieces in the kitchen. I'm also a competitive swimmer (here's me racing [50m backstroke](https://www.youtube.com/live/F75R6tRO6s8?si=GBXeTdc_1tl270lr&t=8789), [50m freestyle](https://www.youtube.com/live/44X1fdHfzkU?si=XN8LBwD-bGcVjgx6), [50m breastroke](https://www.youtube.com/live/9P7MUqhDmr4?si=v-0sQN4bhZAwpzh1&t=9960) and [50m butterfly](https://www.youtube.com/live/7E4KGJ6J4r4?si=c-e0YPS70JtSiTW8&t=809)).
+When I'm not coding, I'm either charting celestial bodies with my telescope, perfecting my tennis serve, logging hours as a student pilot, or creating culinary masterpieces in the kitchen. I'm also a competitive swimmer (here's me racing [50m backstroke](https://www.youtube.com/live/F75R6tRO6s8?si=GBXeTdc_1tl270lr&t=8789), [50m freestyle](https://www.youtube.com/live/44X1fdHfzkU?si=XN8LBwD-bGcVjgx6), [50m breastroke](https://www.youtube.com/live/9P7MUqhDmr4?si=v-0sQN4bhZAwpzh1&t=9960) and [50m butterfly](https://www.youtube.com/live/7E4KGJ6J4r4?si=c-e0YPS70JtSiTW8&t=809)).
 
 ### 🧠 My philosophy
 I craft software that's not just functional, but elegant – turning complex challenges into intuitive, performant applications. I love blending technical precision with creative problem-solving, driven by an insatiable curiosity for continuous growth.
