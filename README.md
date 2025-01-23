@@ -1,6 +1,6 @@
 Hi there! I'm Alex 👋
 
-### 🚀 Full Stack Developer | Automation Architect | Lifelong Learner
+### 🚀 Full Stack Developer • Automation Architect • Lifelong Learner
 
 ### 🔭 Currently working on 
 Building products that push the boundaries of performance and user experience with Python, TypeScript, and Golang ecosystems.
