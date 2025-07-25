@@ -2,19 +2,29 @@
 
 I spent a decade debugging aircraft networks and satellite telemetry.
 
-Now I'm shipping products that automate the boring stuff (so that you don't have to). Solving automation, analytics and productivity headaches I've encountered over the years.
+Now I'm shipping products that automate the boring stuff (so that you don't have to).
 
-Sharing every mistake and breakthrough. Prioritising value over revenue.
+Focused on automation, analytics and productivity solutions that add genuine value.
 
-**Recent projects:**
+Building in public, sharing every mistake and breakthrough.
+
+### Projects
+
+I write clean, reliable code because systems that fail in aerospace don't get second chances. The same principles apply to software that people depend on.
 
 -   [Skyflow](https://skyflow.me) - Free Bluesky analytics (1000+ users)
 -   [Password Please!](https://pwplz.com) - Security tools with 500+ daily generations
 -   [PunPal](https://punpal.net) - Built and deployed in 24 hours
 
-I write clean, reliable code because systems that fail in aerospace don't get second chances. The same principles apply to software that people depend on.
+### Stack
 
-My user interfaces are built with Next.js and the backends vary between FastAPI, Gin, Django and Axum.
+Server code varies between [FastAPI](https://github.com/fastapi/fastapi), [Gin](https://github.com/gin-gonic/gin), [Django](https://github.com/django/django) and [Axum](https://github.com/tokio-rs/axum).
+
+All client interfaces built with [Next.js](https://github.com/vercel/next.js/).
+
+deployed on [Vercel](https://github.com/vercel/vercel) and hosted on [Hostinger](https://www.hostinger.com/).
+
+Most of my code is consulted by Claude. None of it is written by Cursor.
 
 **Location:** London, UK  
 **Contact:** alex@devarno.com
