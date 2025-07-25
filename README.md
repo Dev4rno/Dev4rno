@@ -14,17 +14,9 @@ Sharing every mistake and breakthrough. Prioritising value over revenue.
 
 I write clean, reliable code because systems that fail in aerospace don't get second chances. The same principles apply to software that people depend on.
 
-**Tech:** Python, TypeScript, Next.js, FastAPI, Django  
+**Stack:** Next.js, FastAPI, Gin, Django  
 **Location:** London, UK  
 **Contact:** alex@devarno.com
-
-#### Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev4rno/Dev4rno/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev4rno/Dev4rno/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Dev4rno/Dev4rno/output/github-snake.svg" />
-</picture>
 
 #### 🌐 Socials
 
