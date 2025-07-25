@@ -1,10 +1,10 @@
 # Hi, I'm Alex
 
-**Aerospace systems engineer turned full-stack maker**
+Spent a decade debugging aircraft networks and satellite telemetry.
 
-After a decade debugging aircraft networks and satellite telemetry, I'm building tools to automate the boring stuff and sharing experiments and lessons along the way. My background includes network analysis tools for Boeing 777X systems, satellite constellation debugging, and frontend work on platforms processing billions of social conversations.
+Now shipping products that automate the boring stuff (so that you don't have to) - solving automation, analytics and productivity headaches I've encountered over the years.
 
-Currently shipping automation tools, analytics dashboards, and productivity solutions. I build in public, share every mistake and breakthrough, and believe in creating genuine value before worrying about revenue.
+Sharing every mistake and breakthrough. Prioritising value over revenue.
 
 **Recent projects:**
 
@@ -60,9 +60,7 @@ When I'm not coding, I'm either charting celestial bodies with my telescope, per
 ### 📊 GitHub Stats:
 
 > > > > > > > 1c42b173b004faa221e21883cdcfcc83b3c468ec
-> > > > > > > ![](https://github-readme-stats.vercel.app/api?username=Dev4rno&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-> > > > > > > ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev4rno&theme=dark&hide_border=false)<br/>
-> > > > > > > ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev4rno&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> > > > > > > ![](https://github-readme-stats.vercel.app/api?username=Dev4rno&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> > > > > > > > ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev4rno&theme=dark&hide_border=false)<br/> > > > > > > > ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev4rno&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <<<<<<< HEAD
 
