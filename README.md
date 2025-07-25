@@ -20,9 +20,11 @@ I write clean, reliable code because systems that fail in aerospace don't get se
 
 Server code varies between [FastAPI](https://github.com/fastapi/fastapi), [Gin](https://github.com/gin-gonic/gin), [Django](https://github.com/django/django) and [Axum](https://github.com/tokio-rs/axum).
 
+NoSQL fanboy, primarily working with [MongoDB](https://www.mongodb.com/).
+
 All client interfaces built with [Next.js](https://github.com/vercel/next.js/).
 
-deployed on [Vercel](https://github.com/vercel/vercel) and hosted on [Hostinger](https://www.hostinger.com/).
+All deployments on [Vercel](https://github.com/vercel/vercel). All domains managed with [Hostinger](https://www.hostinger.com/).
 
 Most of my code is consulted by Claude. None of it is written by Cursor.
 
