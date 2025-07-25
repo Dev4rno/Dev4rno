@@ -14,11 +14,10 @@ Sharing every mistake and breakthrough. Prioritising value over revenue.
 
 I write clean, reliable code because systems that fail in aerospace don't get second chances. The same principles apply to software that people depend on.
 
-**Stack:** Next.js, FastAPI, Gin, Django  
+My user interfaces are built with Next.js and the backends vary between FastAPI, Gin, Django and Axum.
+
 **Location:** London, UK  
 **Contact:** alex@devarno.com
-
-#### 🌐 Socials
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/devarno.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandro-arnò-630584117) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Dev4rno) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dev4rno)
 
