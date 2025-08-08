@@ -15,7 +15,7 @@ I write clean, reliable code because systems that fail in aerospace don't get se
 -   [Skyflow](https://skyflow.me) - Free Bluesky analytics (1000+ users)
 -   [Password Please!](https://pwplz.com) - Security tools with 500+ daily generations
 -   [PunPal](https://punpal.net) - Built and deployed in 24 hours
--   and many more [on the way](https://devarno.com?utm_source=github&utm_medium=profile_link&utm_campaign=the_lab&utm_content=bio_link&utm_term=dev_interest).
+-   and many more <a href="https://devarno.com?utm_source=github&utm_medium=profile_link&utm_campaign=the_lab&utm_content=bio_link&utm_term=dev_interest" target="_blank" rel="noopener noreferrer">on the way</a>.
 
 ### Stack
 
