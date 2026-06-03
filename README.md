@@ -35,9 +35,9 @@ Skyflow — multi-service architecture.
 
 [ stack ]
 
-protocol layer:  NATS · gRPC · signed execution
-surface layer:   Python · TypeScript · Go · FastAPI
-infra:           Vercel · AWS · Docker
+proto:     NATS · gRPC · signed execution
+langs:     Python · TypeScript · Go · Rust · Bash
+infra:     Vercel · Docker · Hetzner
 
 ---
 
