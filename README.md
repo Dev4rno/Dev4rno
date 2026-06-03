@@ -2,37 +2,39 @@ null0.
 
 building protocols that make time trustworthy. aerospace systems engineer turned solopreneur.
 
-verifiable state. signed execution. agentic infrastructure with provenance.
+`verifiable state. signed execution. agentic infrastructure with provenance.`
 
-```
-# ──────────────────────────────────────
+---
 
-~/previously
-  MEng Spacecraft Engineering.
-  propeller control systems — MA700.
-  network analysis tooling — Boeing 777X.
-  satellite telemetry — O3b constellations.
+### § 1 · previously
 
-~/now
-  ~20 systems in build. mostly private. pacing reveals.
+> MEng Spacecraft Engineering.
+> propeller control systems — MA700.
+> network analysis tooling — Boeing 777X.
+> satellite telemetry — O3b constellations.
 
-# different substrate. same constraints. the record is the proof.
+### § 2 · now
 
-# ──────────────────────────────────────
+> ~20 systems in build. mostly private. pacing reveals.
 
-~/systems
-  STRATT    auditable execution layer. every chain run leaves a signed artifact.
-  Skyflow   multi-service architecture. NATS · gRPC · REST · SSE.
-  [ ~18 more. classified. ]
+`// different substrate. same constraints. the record is the proof.`
 
-# ──────────────────────────────────────
+---
 
-~/stack
-  proto   NATS · gRPC · signed execution
-  langs   Python · TypeScript · Go · Rust · Bash
-  infra   Vercel · Docker · Hetzner
+### § 3 · systems
 
-# ──────────────────────────────────────
-```
+> **STRATT** — signed execution layer. every chain run leaves an artifact.
+> **Skyflow** — multi-service architecture. NATS · gRPC · REST · SSE.
+> `[ ~18 more. classified. ]`
 
-$ open https://devarno.com
+### § 4 · stack
+
+> **proto** — NATS · gRPC · signed execution
+> **langs** — Python · TypeScript · Go · Rust · Bash
+> **infra** — Vercel · Docker · Hetzner
+
+---
+
+### § 5 · entry
+
+`$ open` → [devarno.com](https://devarno.com)
