@@ -9,8 +9,11 @@ building protocols that make time trustworthy. aerospace systems engineer turned
 ### § 1 · previously
 
 > MEng Spacecraft Engineering.
+>
 > propeller control systems — MA700.
+>
 > network analysis tooling — Boeing 777X.
+>
 > satellite telemetry — O3b constellations.
 
 ### § 2 · now
@@ -24,13 +27,17 @@ building protocols that make time trustworthy. aerospace systems engineer turned
 ### § 3 · systems
 
 > **STRATT** — signed execution layer. every chain run leaves an artifact.
+>
 > **Skyflow** — multi-service architecture. NATS · gRPC · REST · SSE.
+>
 > `[ ~18 more. classified. ]`
 
 ### § 4 · stack
 
 > **proto** — NATS · gRPC · signed execution
+>
 > **langs** — Python · TypeScript · Go · Rust · Bash
+>
 > **infra** — Vercel · Docker · Hetzner
 
 ---
