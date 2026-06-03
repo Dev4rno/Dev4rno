@@ -46,4 +46,4 @@ none of it is written by Cursor.
 
 ---
 
-devarno.com
+https://devarno.com
