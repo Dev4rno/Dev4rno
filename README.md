@@ -1,6 +1,6 @@
-null0.
+# null0.
 
-building protocols that make time trustworthy. aerospace systems engineer turned solopreneur.
+**building protocols that make time trustworthy.** aerospace systems engineer turned solopreneur.
 
 `verifiable state. signed execution. agentic infrastructure with provenance.`
 
@@ -42,6 +42,18 @@ building protocols that make time trustworthy. aerospace systems engineer turned
 
 ---
 
-### § 5 · entry
+### § 5 · daedalus
+
+> atproto, from the identity layer up. `did:web` rooted. self-hosted.
+>
+> the protocol is a routing problem wearing a social-app costume.
+>
+> `→` [the build log](https://devarno.com) · [tangled](https://tangled.org/@devarno.com)
+
+### § 6 · entry
 
 `$ open` → [devarno.com](https://devarno.com)
+
+---
+
+<sub>`// daedalus builds the wings. for icarus — who taught me to fly them.`</sub>
