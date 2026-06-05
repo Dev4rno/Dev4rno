@@ -46,7 +46,7 @@
 
 > atproto, from the identity layer up. `did:web` rooted. self-hosted.
 >
-> the social network is the surface. underneath it's identity and verifiable state.
+> the social network is the surface. underneath: identity and signed history.
 >
 > `→` [the build log](https://devarno.com) · [tangled](https://tangled.org/@devarno.com)
 
