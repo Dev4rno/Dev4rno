@@ -46,7 +46,7 @@
 
 > atproto, from the identity layer up. `did:web` rooted. self-hosted.
 >
-> the protocol is a routing problem wearing a social-app costume.
+> the social network is the surface. underneath it's identity and verifiable state.
 >
 > `→` [the build log](https://devarno.com) · [tangled](https://tangled.org/@devarno.com)
 
