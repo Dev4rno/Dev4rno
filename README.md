@@ -46,7 +46,7 @@
 
 > **proto** — NATS · gRPC · signed execution
 >
-> **langs** — Python · TypeScript · Go · Rust · Bash
+> **langs** — Go · Rust · Bash · Python · TypeScript 
 >
 > **infra** — Vercel · Docker · Hetzner
 
