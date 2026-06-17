@@ -24,15 +24,25 @@
 
 ---
 
-### § 3 · systems
+### § 3 · daedalus
+
+> atproto from the identity layer up. `did:web:devarno.com` rooted. self-hosted.
+>
+> the feed is the surface. identity and signed history sit under it.
+
+`// the network you can't be evicted from. the record outlives the host.`
+
+> `→` [null0.blue](https://null0.blue) · [tangled](https://tangled.org/@devarno.com)
+
+### § 4 · systems
 
 > **STRATT** — signed execution layer. every chain run leaves an artifact.
 >
 > **Skyflow** — multi-service architecture. NATS · gRPC · REST · SSE.
 >
-> `[ ~18 more. classified. ]`
+> `[ ~18 more. private. ]`
 
-### § 4 · stack
+### § 5 · stack
 
 > **proto** — NATS · gRPC · signed execution
 >
@@ -42,18 +52,10 @@
 
 ---
 
-### § 5 · daedalus
-
-> atproto, from the identity layer up. `did:web` rooted. self-hosted.
->
-> the social network is the surface. underneath: identity and signed history.
->
-> `→` [the build log](https://devarno.com) · [tangled](https://tangled.org/@devarno.com)
-
 ### § 6 · entry
 
-`$ open` → [devarno.com](https://devarno.com)
+`$ open` → [devarno.com](https://devarno.com) · [@null0.blue](https://bsky.app/profile/null0.blue)
 
 ---
 
-<sub>`// daedalus builds the wings. for icarus — who taught me to fly them.`</sub>
+<sub>`// Daedalus builds the wings. For Icarus — [A.G.], who taught me to fly them. [1979–2019].`</sub>
